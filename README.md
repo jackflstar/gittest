@@ -1,1 +1,1 @@
-este es un proyecto de prueba con git jijijija
+tuve que hacer otro repositorio porque la ultima vez que hice esto no habia sacado capturas :(
